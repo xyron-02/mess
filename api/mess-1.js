@@ -7,8 +7,6 @@ export default function handler(req, res) {
   
   res.setHeader('Content-Type', 'application/json');
   res.status(200).send(JSON.stringify({
-    option: 4,
-    messages: data,
-    total: data.length
+   data
   }, null, 2));
 }
