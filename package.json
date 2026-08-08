@@ -1,0 +1,11 @@
+{
+  "name": "queen-msg",
+  "version": "1.0.0",
+  "description": "API messages with options",
+  "type": "module",
+  "scripts": {
+    "dev": "node api/route.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
